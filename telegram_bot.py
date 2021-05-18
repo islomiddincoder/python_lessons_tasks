@@ -33,25 +33,3 @@ def echo_all(message):
     bot.reply_to(message, javob)
 
 bot.polling()
-  
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-#print(to_cyrillic('assalomu alaykum'))
-
-#matn=input('Matn kiriting:')
-
-#if matn.isascii():
-   # print(to_cyrillic(matn))
-#else:
-    
-    #print(to_latin(matn))
-    #1860676108:AAG-A3OiMl2nxKGJRYkLB3dXFjVZSO_Ie08
-    
